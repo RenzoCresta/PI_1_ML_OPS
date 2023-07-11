@@ -61,7 +61,7 @@ productoras_exitosas(Productora: str): Devuelve el revenue total y la cantidad d
 get_director(nombre_director: str): Devuelve el éxito de un director medido a través del retorno y una lista de películas dirigidas por ese director, con su fecha de lanzamiento, retorno individual, costo y ganancia.
 
 *Paso 3: Deployment*
-Hemos desplegado la aplicación utilizando Render, lo que nos permite ejecutar nuestras consultas y el modelo de recomendación desde una interfaz web. Puedes acceder a la aplicación a través del siguiente enlace: URL de la aplicación
+Hemos desplegado la aplicación utilizando Render, lo que nos permite ejecutar nuestras consultas y el modelo de recomendación desde una interfaz web. Puedes acceder a la aplicación a través del siguiente [enlace](https://pi-1-ml-ops.onrender.com/docs#/).
 
 *Paso 4: Análisis Exploratorio de Datos ([EDA](https://github.com/RenzoCresta/PI_1_ML_OPS/blob/main/EDA.ipynb))*
 En el archivo EDA.ipynb, realizamos un análisis exploratorio de los datos. Algunas de las técnicas utilizadas incluyen:
@@ -85,6 +85,7 @@ Cálculo de la similitud coseno entre todas las descripciones de películas.
 Creación de una función recomendacion(titulo: str) que devuelve las 5 películas más similares a una película específica.
 
 ### A continuación adjunto un videotutorial, mostrando como está conformado el proyecto, así como el correcto funcionamiento de la API.
+URL: https://youtu.be/CbiRLijS8Ys
 ### ¡Muchas gracias por su atención! <3
 
 Les invito a visitar mi perfil de [Linkedin](https://www.linkedin.com/in/renzo-cresta-y-ponso) 
